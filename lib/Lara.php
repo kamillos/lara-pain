@@ -2,4 +2,7 @@
 
 namespace Kamillos\Larapain;
 
-class Lara {}
+class Lara
+{
+
+}
